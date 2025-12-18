@@ -6,6 +6,7 @@ public class Despedida {
         System.out.println("Dime tu nombre: ");
         String nombre = sc.nextLine();
         System.out.println("Nos vemos " + nombre);
+        System.out.println("Hasta luego " + nombre + " .Espero verte mas a menudo");
         sc.close();
     }
 }
