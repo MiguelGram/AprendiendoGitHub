@@ -5,7 +5,7 @@ public class Saludo {
         Scanner sc = new Scanner(System.in);
         System.out.println("Dime tu nombre");
         String nombre = sc.nextLine();
-        System.out.println("Hola " + nombre);
+        System.out.println("Hola " + nombre + " hace mucho que no te veo");
         sc.close();
     }
 
