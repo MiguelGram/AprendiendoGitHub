@@ -35,4 +35,4 @@ Es necesario tener Java 17 instalado aqui tienes el enlace a la descarga
 
 
 ## Aqui te dejo otro proyecto
-[Gestion de empresas]/(https://github.com/MiguelGram/AprendiendoMuchoGit)
+[Gestion de empresas](https://github.com/MiguelGram/AprendiendoMuchoGit)
