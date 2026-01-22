@@ -25,4 +25,4 @@ Es necesario tener Java 17 instalado aqui tienes el enlace a la descarga
 
    ## Asi tendria que verse
 
-![programa abierto](iamgen.png)
+![.](iamgen.jpg)
