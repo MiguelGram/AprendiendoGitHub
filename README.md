@@ -26,3 +26,13 @@ Es necesario tener Java 17 instalado aqui tienes el enlace a la descarga
    ## Asi tendria que verse
 
 ![.](iamgen.jpg)
+
+
+| Programadores | Fecha |
+| ----------- | ----------- |
+| Miguel | 2025-2026 |
+| Rober | 2025-2025 | 
+
+
+## Aqui te dejo otro proyecto
+[Gestion de empresas]/(https://github.com/MiguelGram/AprendiendoMuchoGit)
