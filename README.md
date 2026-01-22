@@ -5,9 +5,9 @@ La aplicacion se encarga de llevar un **control** de las *personas* que se regis
 
 ## Tecnologias utilizadas
 
-*Java
-*HTML
-*CSS
+* Java
+* HTML
+* CSS
 
 ## Insatalacion
 
